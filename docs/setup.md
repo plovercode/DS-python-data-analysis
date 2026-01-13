@@ -17,11 +17,11 @@ In the following sections, more details are provided for each of these steps. Wh
 
 ### Option 1: You are already a git user
 
-As the course has been set up as a [git](https://git-scm.com/) repository managed on [Github](https://github.com/jorisvandenbossche/DS-python-data-analysis),
+As the course has been set up as a [git](https://git-scm.com/) repository managed on [Github](https://github.com/plovercode/DS-python-data-analysis),
 you can clone the entire course to your local machine. Use the command line to clone the repository and go into the course folder:
 
 ```
-git clone https://github.com/jorisvandenbossche/DS-python-data-analysis.git
+git clone https://github.com/plovercode/DS-python-data-analysis.git
 cd DS-python-data-analysis
 ```
 
@@ -31,7 +31,7 @@ see [this tutorial](https://help.github.com/desktop/guides/contributing-to-proje
 ### Option 2: You are not a git user
 
 To download the repository to your local machine as a zip-file, click the  `download ZIP` on the
-repository page <https://github.com/jorisvandenbossche/DS-python-data-analysis> (green button "Code"):
+repository page <https://github.com/plovercode/DS-python-data-analysis> (green button "Code"):
 
 ![Download button](./static/img/download-button.png)
 
@@ -79,14 +79,14 @@ throughout this course.
 As a good practice, we will create a new _conda environment_ to work with.
 
 The packages used in the course are enlisted in
-an [`environment.yml` file](https://raw.githubusercontent.com/jorisvandenbossche/DS-python-data-analysis/main/environment.yml). The file looks as follows:
+an [`environment.yml` file](https://raw.githubusercontent.com/plovercode/DS-python-data-analysis/main/environment.yml). The file looks as follows:
 
 ```
 name: DS-python
 channels:
 - conda-forge
 dependencies:
-- python=3.12
+- python=3.13
 - geopandas
 - ...
 ```
