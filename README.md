@@ -11,7 +11,7 @@ The course has been developed as a specialist course for the Doctoral schools of
 
 ## Getting started
 
-The course uses Python 3 and some data analysis packages such as Pandas, Numpy and Matplotlib. To install the required libraries, we highly recommend Anaconda or miniconda (<https://www.anaconda.com/download/>) or another Python distribution that includes the scientific libraries (this recommendation applies to all platforms, so for both Window, Linux and Mac).
+The course uses Python 3 and some data analysis packages such as Pandas, Numpy and Matplotlib. To install the required libraries, we highly recommend using conda (https://conda-forge.org/download/), which allows you to install the required scientific libraries (this recommendation applies to all platforms, so for both Windows, Linux and Mac).
 
 For detailed instructions to get started on your local machine , see the [setup instructions](./docs/setup.md).
 
