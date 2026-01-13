@@ -14,7 +14,7 @@ The course does not cover statistics, data mining, machine learning, or predicti
 tackle commonly encountered data handling tasks in order to increase the overall efficiency. These skills are both useful for data cleaning as well as
 feature engineering.
 
-The course has been developed as a course for the Specialist course Doctoral schools of Ghent University, but can be taught to others upon request.
+The course has been developed as a course for the Transferable Skills course - Doctoral School of Ghent University, but can be taught to others upon request.
 
 ## Course info
 
@@ -46,12 +46,12 @@ includes the scientific libraries (this recommendation applies to all platforms,
 For detailed instructions to get started on your local machine, see the [setup instructions](./setup.html).
 
 In case you do not want to install everything and just want to try out the course material, use the environment setup by
-Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jorisvandenbossche/DS-python-data-analysis/HEAD) and open de notebooks
+Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/plovercode/DS-python-data-analysis/HEAD) and open de notebooks
 rightaway (inside the `notebooks` directory).
 
 ## Slides
 
-For the course slides, click [here](https://jorisvandenbossche.github.io/DS-python-data-analysis/slides.html).
+For the course slides, click [here](https://plovercode.github.io/DS-python-data-analysis/slides.html).
 
 ## Contributing
 
